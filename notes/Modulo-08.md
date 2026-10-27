@@ -14,5 +14,3 @@ host
 
 This process is made by a NIC installed in the device
 
-<img src="./img/Modulo-8/media/image1.png"
-style="width:6.26772in;height:3.15278in" />

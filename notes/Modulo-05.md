@@ -75,5 +75,3 @@ layer 2 \_ Data link MAC(media access control) == address on Ethernet
 
 layer 1 \_ Physical Signaling, cabling, connectors
 
-<img src="./img/Modulo-5/media/image1.png"
-style="width:6.26772in;height:4.18056in" />

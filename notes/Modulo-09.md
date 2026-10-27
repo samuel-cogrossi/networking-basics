@@ -17,9 +17,7 @@ a group
 
 > multicast clients use services requested by a client program to
 > subscribe to the multicast group.
->
-> <img src="./img/Modulo-9/media/image1.png"
-> style="width:4.26563in;height:3.20347in" />
+
 
 \_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_
 
@@ -34,8 +32,6 @@ network
 
 Identify a public IP address to a private IP address:
 
-<img src="./img/Modulo-9/media/image2.png"
-style="width:5.50521in;height:1.32601in" />
 
 CIDR
 
@@ -63,5 +59,3 @@ The solution to reduce the size of the network is to create subnets
 
 Subnet
 
-<img src="./img/Modulo-9/media/image3.png"
-style="width:4.67188in;height:2.14968in" />

@@ -1,5 +1,3 @@
-<img src="./img/Modulo-1/media/image2.png"
-style="width:6.26772in;height:4.25in" />
 
 Public Networks is a network that connects private networks.
 
@@ -52,9 +50,6 @@ SWITCHES
 > connected in some port
 
 are usually found where many devices have to be connected to the network
-
-<img src="./img/Modulo-1/media/image1.png"
-style="width:6.26772in;height:2.83333in" />
 
 ROUTER
 

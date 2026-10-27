@@ -15,8 +15,6 @@ hosts
 
 Both \_ is called a peer-to-peer (P2P) network.
 
-<img src="./img/Modulo-2/media/image3.png"
-style="width:6.26772in;height:1.84722in" />
 
 peer-to-peer (P2P) network
 
@@ -28,13 +26,8 @@ less complex
 
 lower cost
 
-<img src="./img/Modulo-2/media/image2.png"
-style="width:5.00521in;height:2.5625in" />
 
 \_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_
-
-<img src="./img/Modulo-2/media/image1.png"
-style="width:6.26772in;height:4.375in" />
 
 Connection
 
@@ -61,5 +54,3 @@ a device that connect devices of a private network to a ‘ISP server’
 
 often connected to a router
 
-<img src="./img/Modulo-2/media/image4.png"
-style="width:5.25521in;height:3.03426in" />

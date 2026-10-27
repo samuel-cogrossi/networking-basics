@@ -30,5 +30,3 @@ That allow the host communicate with many applications at the same time
 
 **Private ports** \_ 49152 to 65535
 
-<img src="./img/Modulo-15/media/image1.png"
-style="width:6.11979in;height:4.73923in" />
